@@ -44,7 +44,7 @@
 		to="https://shop.abc.net.au/" />
 
 	<!--	Cert isn't valid for !www	-->
-	<rule from="^http://(?:www\.)?abccomercial\.com/"
-		to="https://abccomercial.com/"/>
+	<rule from="^http://(?:www\.)?abccommercial\.com/"
+		to="https://abccommercial.com/"/>
 
 </ruleset>
